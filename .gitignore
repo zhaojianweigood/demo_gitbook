@@ -1,3 +1,4 @@
 _book/*
 assets/*
 .idea/
+node_modules/
